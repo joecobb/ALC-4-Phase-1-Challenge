@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ALC Phase One Challenge</string>
+    <string name="app_title">Welcome to ALC 4.0</string>
+    <string name="about_ala">About ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="my_name">Joseph Cobbinah</string>
+    <string name="track_text">Track: Android</string>
+    <string name="country_text">Country: Ghana</string>
+    <string name="email_text">Email: josephcobbinah.jc@gmail.com</string>
+    <string name="phone_text">Phone Number: +233242759206</string>
+    <string name="slack_text">Slack Username: @Joseph Cobbinah</string>
+</resources>
